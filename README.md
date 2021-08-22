@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects related to python and django.
 - 📫 How to reach me:
                       My email: mohsen1076@gmail.com
-                      My linkeding: mohsen-karimi-10751076
+                      My linkedin: mohsen-karimi-10751076
 
 <!---
 MohsenKarimi71/MohsenKarimi71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
