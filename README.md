@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MohsenKarimi71
-- 👀 I’m interested in programming and web developing.
-- 🌱 I’m currently learning git and linux!
-- 💞️ I’m looking to collaborate on projects related to python and django.
+Hi, I’m @MohsenKarimi71
+The Python/Django developer with 3 years of experience working on developing Django web applications who is a good team player, motivated, self-learner, interested in experiencing and learning new technologies, and loves facing new challenges.
+I’m looking to collaborate on projects related to python and django.
 - 📫 How to reach me:
                       My email: mohsen1076@gmail.com
                       My linkedin: mohsen-karimi-10751076
